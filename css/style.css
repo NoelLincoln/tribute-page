@@ -14,9 +14,19 @@ img{
     display: block;
     max-width: 100%;
     height:auto;
-    margin: auto;
+    margin:0 auto;
 }
 img {
     overflow-clip-margin: content-box;
     overflow: clip;
+}
+#img-div{
+    margin: 0;
+}
+
+#image{
+    
+}
+figure{
+    display: block;
 }
